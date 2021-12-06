@@ -26,7 +26,7 @@
   "homepage": "https://github.com/leo-jansen/bot-whatsapp#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "venom-bot": "^4.0.2"
+    "venom-bot": "^4.0.3"
   },
   "devDependencies": {
     "ts-node-dev": "^1.1.8",
