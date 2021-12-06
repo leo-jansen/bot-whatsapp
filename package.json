@@ -1,0 +1,26 @@
+{
+  "name": "bot-whatsapp",
+  "version": "0.0.1",
+  "description": "bot para encaminhar mensagem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-jansen/bot-whatsapp.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "node",
+    "typescript",
+    "venom-bot"
+  ],
+  "author": "leo-jansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo-jansen/bot-whatsapp/issues"
+  },
+  "homepage": "https://github.com/leo-jansen/bot-whatsapp#readme"
+}
