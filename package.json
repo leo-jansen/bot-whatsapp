@@ -4,7 +4,8 @@
   "description": "bot para encaminhar mensagem",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/index.ts"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/leo-jansen/bot-whatsapp/issues"
   },
-  "homepage": "https://github.com/leo-jansen/bot-whatsapp#readme"
+  "homepage": "https://github.com/leo-jansen/bot-whatsapp#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "venom-bot": "^4.0.2"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.2"
+  }
 }
